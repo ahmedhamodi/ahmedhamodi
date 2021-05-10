@@ -2,7 +2,7 @@
 
 Welcome to my GitHub account! I am an active contributor to a variety of repositories and love open source code.
 
-If you want to connect or find out more about me, you can check out my [linkedin](https://www.linkedin.com/in/ahmedhamodi/). Happy to chat!
+If you want to connect or find out more about me, you can check out my [LinkedIn](https://www.linkedin.com/in/ahmedhamodi/). Happy to chat!
 
 Some things about me:
 - I’m currently a 4th year Software Engineering student at the University of Waterloo
