@@ -1,18 +1,16 @@
-### Hi there 👋
+### Hey there 👋
 
-<!--
-**ahmedhamodi/ahmedhamodi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub account! I am an active contributor to a variety of repositories and love open source code.
 
-Here are some ideas to get you started:
+If you want to connect or find out more about me, you can check out my [linkedin](https://www.linkedin.com/in/ahmedhamodi/). Happy to chat!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Some things about me:
+- 🔭 I’m currently a 4th year Software Engineering student at the University of Waterloo
+- 💬 Ask me about my work with UW Blueprint (I've been on the team for 8 terms now!!)
+- 📫 Feel free to reach out to me on LinkedIn, see link above!
+- 😄 My pronouns are he/him/his
+- ⚡ Random fun fact, I've only been to a barber 3 times in my life! I typically cut my hair at home :)
+
+#### My GitHub Stats
 
 ![GitHub Stats for Ahmed](https://github-readme-stats.vercel.app/api?username=ahmedhamodi&show_icons=true&theme=radical&count_private=true)
