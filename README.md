@@ -11,4 +11,6 @@ More about me:
 
 #### My GitHub Stats
 
-![GitHub Stats for Ahmed](https://github-readme-stats.vercel.app/api?username=ahmedhamodi&show_icons=true&theme=merko&count_private=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedhamodi&show_icons=true&theme=merko&count_private=true" alt="GitHub Stats for Ahmed"/>
+</p>
