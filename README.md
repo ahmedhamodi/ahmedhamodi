@@ -1,6 +1,12 @@
-### Hey there 👋
+### Ahmed's GitHub Account
 
-Welcome to my GitHub account! I am an active contributor to a variety of repositories and love open source code.
+Welcome to my GitHub account!
+
+#### Introduction 👋
+
+My name is Ahmed, nice to meet you!
+
+I am an active contributor to a variety of repositories and I love to support open source code.
 
 If you want to connect or find out more about me, you can check out my [LinkedIn](https://www.linkedin.com/in/ahmedhamodi/). Happy to chat!
 
