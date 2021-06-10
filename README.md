@@ -1,4 +1,4 @@
-### Ahmed's GitHub Account
+### Ahmed's GitHub Account 💻
 
 Welcome to my GitHub account!
 
@@ -15,7 +15,7 @@ More about me:
 - Ask me about my work with UW Blueprint (I've been on the team for almost 3 years now!)
 - Feel free to reach out to me on LinkedIn, see link above!
 
-#### My GitHub Stats
+#### My GitHub Stats ✨
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ahmedhamodi&show_icons=true&theme=merko&count_private=true" alt="GitHub Stats for Ahmed"/>
