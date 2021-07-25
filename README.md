@@ -12,7 +12,7 @@ If you want to connect or find out more about me, you can check out my [LinkedIn
 
 More about me:
 - I’m currently a 4th year Software Engineering student at the University of Waterloo
-- Ask me about my work with UW Blueprint (I've been on the team for almost 3 years now!)
+- Ask me about my work with UW Blueprint (I've been on the team for >3 years now!)
 - Feel free to reach out to me on LinkedIn, see link above!
 
 #### ✨ My GitHub Stats ✨
