@@ -11,9 +11,10 @@ I am an active contributor to a variety of repositories and I love to support op
 If you want to connect or find out more about me, you can check out my [LinkedIn](https://www.linkedin.com/in/ahmedhamodi/). Happy to chat!
 
 More about me:
-- I’m currently a 4th year Software Engineering student at the University of Waterloo
-- Ask me about my work with UW Blueprint (I've been on the team for >3 years now!)
-- Feel free to reach out to me on LinkedIn, see link above!
+- Fourth year Software Engineering student at the University of Waterloo
+- Co-Founder of [DecisionHub](https://decisionhub.org/), a technology startup that I founded over a year ago
+- President of student club, UW Blueprint (I've been on the team for ~4 years now!)
+- Previously was a SWE Intern at Facebook (now Meta)
 
 #### ✨ My GitHub Stats ✨
 
