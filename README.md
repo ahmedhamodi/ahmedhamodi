@@ -14,7 +14,8 @@ More about me:
 - Fourth year Software Engineering student at the University of Waterloo
 - Co-Founder of [DecisionHub](https://decisionhub.org/), a technology startup that I founded over a year ago
 - President of [UW Blueprint](https://uwblueprint.org/), a student club building tech for social good (I've been on the team for 4 years now!)
-- Previously was a SWE Intern at Facebook (now Meta)
+- Previously was a SWE (software eng) Intern at Facebook, now Meta
+- Previously was an APM (associate product manager) Intern at Wish
 
 #### ✨ My GitHub Stats ✨
 
