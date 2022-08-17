@@ -12,10 +12,10 @@ If you want to connect or find out more about me, you can check out my [LinkedIn
 
 More about me:
 - 🎓 Graduate from Software Engineering at the University of Waterloo
-- 🌟 Co-Founder of [DecisionHub](https://decisionhub.org/), a technology startup that I founded ~2 years ago
+- 🌟 Co-Founder of [DecisionHub](https://decisionhub.org/), a technology startup that I founded 2 years ago
 - 💙 Previously the President of [UW Blueprint](https://uwblueprint.org/), a student club building tech for social good
-- 💻 Previously a SWE (software engineering) Intern at Facebook, now Meta
-- 📊 Previously an APM (associate product manager) Intern at Wish
+- 💻 Incoming Software Engineer at Meta
+- 📊 Previously Associate Product Manager Intern at Wish and Software Engineer Intern at Facebook
 
 #### ✨ My GitHub Stats ✨
 
